@@ -24,9 +24,10 @@ https://github.com/kylienewcomer/eds214-water-quality-project/commit/cf2aded3040
 
 [M] The analysis runs without errors
 
-[M] **The analysis produces the expected output**
+[E] **The analysis produces the expected output**
 
 - You did so good! But your description of the exceeds spec cuts off mid sentence, so I'm not sure what you meant.
+- As discussed in class, bumping this up to an E
 
 [M] **Data import/cleaning is handled in its own script(s)**
 
